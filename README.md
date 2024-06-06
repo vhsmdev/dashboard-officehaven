@@ -5,7 +5,7 @@
 Bem-vindo ao repositório do Dashboard de Vendas da Office Haven, um projeto desenvolvido em Power BI para fornecer insights detalhados sobre as operações de vendas de uma empresa fictícia. Este dashboard foi criado para visualizar e analisar os dados de vendas, auxiliando na tomada de decisões mais informadas e estratégicas.
 
 
-[Link do projeto..]([docs/CONTRIBUTING.md](https://app.powerbi.com/view?r=eyJrIjoiOTY5NmU5MzctYmY4MS00YTJiLWI1ZjItNWMyMzVhZTdkZmU5IiwidCI6IjhkODdkMGZhLWE4NDktNGNkYi1iZTIxLTk1YzY3ZjU3ZGZmYyJ9))
+[Link do projeto..](https://app.powerbi.com/view?r=eyJrIjoiOTY5NmU5MzctYmY4MS00YTJiLWI1ZjItNWMyMzVhZTdkZmU5IiwidCI6IjhkODdkMGZhLWE4NDktNGNkYi1iZTIxLTk1YzY3ZjU3ZGZmYyJ9)
 
 ### Funcionalidades
 
