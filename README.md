@@ -27,15 +27,3 @@ _Abaixo estão algumas capturas de tela do dashboard demonstrando as funcionalid
 
 ![Variação de Margem de Lucro](https://github.com/vhsmdev/dashboard-officehaven/blob/main/PrintsProjeto/P00.png?raw=true)
 ![Variação de Margem de Lucro](https://github.com/vhsmdev/dashboard-officehaven/blob/main/PrintsProjeto/P01.png?raw=true)
-
-### Como Usar
-
-1. Clone este repositório para a sua máquina local.
-   ```bash
-   git clone https://github.com/seuusuario/office-haven-sales-dashboard.git
-   ```
-2. Abra o arquivo do Power BI (`.pbix`) no Power BI Desktop.
-
-3. Conecte seus dados ou use os dados de exemplo incluídos no projeto.
-
-4. Publique o dashboard no Power BI Service se desejar compartilhá-lo com outros usuários.
