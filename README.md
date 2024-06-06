@@ -25,11 +25,8 @@ Bem-vindo ao repositório do Dashboard de Vendas da Office Haven, um projeto des
 
 _Abaixo estão algumas capturas de tela do dashboard demonstrando as funcionalidades descritas:_
 
-![Variação de Margem de Lucro](path/to/screenshot1.png)
-![Meta do Valor Médio de Venda](path/to/screenshot2.png)
-![Média de Custo de Envio por Mercado](path/to/screenshot3.png)
-![Média de Lucro por Categoria](path/to/screenshot4.png)
-![Venda por Modo de Envio](path/to/screenshot5.png)
+![Variação de Margem de Lucro](https://github.com/vhsmdev/dashboard-officehaven/blob/main/PrintsProjeto/P00.png?raw=true)
+![Variação de Margem de Lucro](https://github.com/vhsmdev/dashboard-officehaven/blob/main/PrintsProjeto/P01.png?raw=true)
 
 ### Como Usar
 
